@@ -1,15 +1,22 @@
-# Simple Customizable To;Do List 
+# Welcome to DavidDaDev GitHub Page
 
-## Powered by JavaScript
+This project is a todo web app with HTML, JS, CSS.
 
-### No framework was created during the making of this simple to do list ;)
+Feel free to look at my projects. If you want to drop a line visit my personal [website](http://davidsoto.dev/).
 
-# Welcome
+## Launch
 
-For this project, no frameworks were used. To see the app, just click [here](https://sotoxp.github.io/simple-customizable-todo-list-javascript)!
+To see the project live tap [here](https://daviddadev.github.io/todo-list-javascript/index.html), and thanks for visiting my GitHub. Enjoy.
 
+- David
 
-## Contact
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Visit the [dev's](https://www.linkedin.com/in/david-soto) LinkedIn.
+Please make sure to update tests as appropriate.
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+### Disclaimer
+On older projects, some links might be dead, broken, or empty. Some projects are just to show the look and feel without 100% functionality. 
